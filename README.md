@@ -16,8 +16,8 @@
 
 <h3>🌟 About Me:</h3>
 <ul>
-  <li>👨‍💻 Currently looking for my first challenge in the industry, while improving my skills and acquiring new knowledge.</li>
-  <li>🎓 Newly graduated from Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.</li>
+  <li>👨‍💻 Currently serving as a Full Stack developer at DevBoost.</li>
+  <li>🎓 Graduate of Coding Academy's Fullstack Bootcamp, where I learned modern technologies and techniques.</li>
   <li>🔗 Check out my latest project inspired by Monday.com: <a href="https://anyday-lodf.onrender.com//">Anyday</a>.</li>
   <li>🎯 Ambitious, high self-disciplined with a constant drive for professional excellence.</li>
   <li>⛹️‍♂️ Fun fact: I love basketball, dogs and technology.</li>
