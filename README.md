@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ron Felsenfeld</h1>
-<h2 align="center">Full Stack / Frontend Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
