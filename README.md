@@ -12,6 +12,8 @@
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/sql" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql" alt="MySQL"/>
 </p>
 
 <h3>🌟 About Me:</h3>
